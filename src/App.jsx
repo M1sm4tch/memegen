@@ -1,6 +1,6 @@
 import './App.css'
 import Meme from './Meme'
-import Header from './header'
+import Header from './Header'
 
 function App() {
 
